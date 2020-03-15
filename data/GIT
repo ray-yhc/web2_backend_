@@ -1,0 +1,17 @@
+출처 :    <a href='https://youtu.be/FXDjmsiv8fI'>가장 쉬운 Git 강좌 - (상) 혼자작업편</a> <br>
+        <a href='https://youtu.be/GaKjTjwcKQo'>가장 쉬운 Git 강좌 - (하) Github편</a><br><br>
+                
+<p>
+터미널로 돌아오고 싶을때     :q
+git status
+git add -A        모두 저장(stage)
+git commit -m '{커밋이름}'        커밋
+
+git log
+
+git remote
+git remote add {이름.. 기본값 : origin} {https:// .... 주소}
+git push -u origin master
+
+git fetch : 깃허브 업데이트상태 확인
+</p>
